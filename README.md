@@ -1,2 +1,0 @@
-# Project
-OpenIATI Project Repository
